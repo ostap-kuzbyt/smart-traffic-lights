@@ -1,0 +1,3 @@
+.venv
+retinanet_resnet50_fpn_coco-eeacb38b.pth
+*.mp4
